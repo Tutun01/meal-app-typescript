@@ -1,1 +1,0 @@
-{"version":3,"file":"ApuUrlInterface.d.ts","sourceRoot":"","sources":["../src/ApuUrlInterface.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAC,mBAAmB,EAAC,MAAM,kCAAkC,CAAC;AAE1E,MAAM,WAAW,eAAe;IAC5B,QAAQ,EAAE,MAAM,CAAC;IACjB,IAAI,EAAE,CAAC,mBAAmB,EAAE,GAAI,mBAAmB,EAAE,CAAC,CAAA;CACzD"}

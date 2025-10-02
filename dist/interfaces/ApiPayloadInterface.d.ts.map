@@ -1,1 +1,0 @@
-{"version":3,"file":"ApiPayloadInterface.d.ts","sourceRoot":"","sources":["../../src/interfaces/ApiPayloadInterface.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,mBAAmB;IAChC,KAAK,EAAE,GAAG,GAAG,GAAG,GAAG,GAAG,CAAC;IACvB,KAAK,EAAC,MAAM,CAAA;CACf"}

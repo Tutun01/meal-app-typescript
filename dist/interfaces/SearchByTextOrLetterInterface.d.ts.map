@@ -1,1 +1,0 @@
-{"version":3,"file":"SearchByTextOrLetterInterface.d.ts","sourceRoot":"","sources":["../../src/interfaces/SearchByTextOrLetterInterface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,6BAA6B;IAC1C,IAAI,EAAE;QACF,KAAK,EAAE,GAAG,GAAG,GAAG,CAAC;QACjB,KAAK,EAAE,MAAM,CAAA;KAChB,CAAA;CACJ"}

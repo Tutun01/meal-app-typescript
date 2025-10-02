@@ -1,1 +1,0 @@
-{"version":3,"file":"SearchByCategoryInterface.d.ts","sourceRoot":"","sources":["../../src/interfaces/SearchByCategoryInterface.ts"],"names":[],"mappings":"AACA,MAAM,WAAW,yBAAyB;IACtC,IAAI,EAAE;QACF,KAAK,EAAC,GAAG,GAAG,GAAG,GAAG,GAAG,CAAC;QACtB,KAAK,EAAC,MAAM,CAAA;KACf,CAAA;CACJ"}

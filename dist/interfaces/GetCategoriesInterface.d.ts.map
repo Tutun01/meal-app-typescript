@@ -1,1 +1,0 @@
-{"version":3,"file":"GetCategoriesInterface.d.ts","sourceRoot":"","sources":["../../src/interfaces/GetCategoriesInterface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,sBAAsB;IAC/B,IAAI,EAAE;QACF,KAAK,EAAE,GAAG,GAAG,GAAG,GAAG,GAAG,CAAC;QACvB,KAAK,EAAC,MAAM,CAAA;KACf,CAAA;CACJ"}
