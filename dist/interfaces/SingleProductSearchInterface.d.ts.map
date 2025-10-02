@@ -1,0 +1,1 @@
+{"version":3,"file":"SingleProductSearchInterface.d.ts","sourceRoot":"","sources":["../../src/interfaces/SingleProductSearchInterface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,4BAA4B;IACzC,IAAI,EAAE;QACF;YACI,KAAK,EAAE,GAAG,CAAC;YACX,KAAK,EAAE,MAAM,CAAA;SAChB;KACJ,CAAC;CACL"}
